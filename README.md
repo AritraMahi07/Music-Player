@@ -10,6 +10,10 @@ This is a simple GUI Music Player with limited functions built using the Python 
 # Built With
 This is a simple GUI Music Player application made with Python3.8(Tkinter Module)
 
+# ScreenShot
+![Screenshot (167)](https://github.com/AritraMahi07/Music-Player/assets/138608319/325b0456-756d-4d95-b551-4b56c063f826)
+![Screenshot (168)](https://github.com/AritraMahi07/Music-Player/assets/138608319/824010e4-1649-46e0-bb8f-893c7c611e49)
+
 # Widgets Used
 In this GUI widgets I have used are: 
 1. Label
