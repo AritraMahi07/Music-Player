@@ -1,4 +1,0 @@
-1- pip install tkinter
-2- pip install pygame
-3- pip install datetime
-5- pip install os-sys
