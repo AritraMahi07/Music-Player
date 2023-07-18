@@ -21,7 +21,6 @@ The application allows users to select a particular folder or music file contain
 2. Pause the music
 3. Stop the music
 4. Unpause the music
-5. Also I have added some extra images that when a user plays a song it will act like animation
 
 # Prerequisites
 This code will run only on Python3.X You need to have Python3.X on your PC
