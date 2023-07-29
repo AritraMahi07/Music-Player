@@ -30,5 +30,5 @@ The application allows users to select a particular folder or music file contain
 This code will run only on Python3.X You need to have Python3.X on your PC
 
 # Contributor
-AritraMahi07
+@AritraMahi07
 
